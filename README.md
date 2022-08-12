@@ -21,7 +21,7 @@ Application that allows employee's to generate a random password based on the re
 
 ## Usage
 Personal/for potential employees to create passwords:
-![Brian Portfolio home page screenshot](assets/images/03-javascript-homework-demo.png)
+![Brian Portfolio home page screenshot](.assets/images/03-javascript-homework-demo.jpg)
 
 ## Links
 ### Links that Helped me along the way:
@@ -64,7 +64,7 @@ SO THAT I can create a strong password that provides greater security
 
 ## Mock Up
 The following mock up image shows required display:
-![Mock Up Image](.assets/images/03-javascript-homework-demo.png)
+![Mock Up Image](.assets/images/03-javascript-homework-demo.jpg)
 
 ### Steps:
 * Clone the starter code.
