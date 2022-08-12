@@ -16,9 +16,15 @@ var randomNumber = function(max) {
   }
 
 // function to get password lenght
+var length = function() {
   // ask the user for a password length
+  var passwordLength = window.prompt("Please enter the desired password length. Password must be between 8 to 128 characters long.");
 
-  // check if the prompt meets the password criteria 
+  // check if the prompt meets the password criteria
+  if( passwordLength<8 || passwordLength > 128){
+    window.alert("Please enter a number between 8 and 128");
+    return length();
+  }  
 
 // Get references to the #generate element
 
