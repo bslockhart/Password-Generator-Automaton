@@ -9,7 +9,11 @@ var spCharArray = [" ","!","'","#","$","%","&","\"",")","(","*","+",",","-",".",
 
 
 // function that generates a random number upto a maximum value.
-  // var value = Math.floor(Math.random() * (max-min+1)+min);
+var randomNumber = function(max) {
+    // var value = Math.floor(Math.random() * (max-min+1)+min);
+    var value = Math.floor(Math.random() * max);
+    return value;
+  }
 
 // function to get password lenght
   // ask the user for a password length
