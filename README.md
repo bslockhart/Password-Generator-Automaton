@@ -21,7 +21,7 @@ Application that allows employee's to generate a random password based on the re
 
 ## Usage
 Personal/for potential employees to create passwords:
-![Mock Up Screenshot](assets/images/mock-up.png)
+![Mock Up](./Develop/assets/images/mock-up.png)
 
 ## Links
 ### Links that Helped me along the way:
