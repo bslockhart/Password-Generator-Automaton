@@ -59,7 +59,7 @@ Create an application that an employee can use to generate a random password bas
 
 ## Mock Up
 The following image shows the web application's appearance and functionality:
-![Mock Up](./Develop/assets/images/mockup.png)
+![Mock Up](./assets/images/mockup.png)
 
 ### Steps:
 * Clone the starter code.
