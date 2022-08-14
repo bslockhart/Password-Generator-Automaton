@@ -4,14 +4,14 @@
 Application that allows employee's to generate a random password based on the required criteria. The application runs in the browser and features dynamically updated HTML and CSS powered JavaScript code that has been refactored from provided file. Application has a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
 ## Table of Contents
-* [Usage](#usage)
-* [Links](#links)
 * [Tools](#tools)
-* [Credits](#credits)
-* [Challenge Guidelines](#challenge-guidelines)
+* [Links](#links)
+* [Credits](#Credits)
 * [User Story](#User-Story)
+* [Challenge Guidelines](#challenge-guidelines)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Mock Up](#Mock-Up)
+* [Usage](#usage)
 * [Steps](#Steps)
 * [Technical Acceptance Criteria](#Technical-Acceptance-Criteria)
 * [Deployment](#Deployment)
@@ -19,9 +19,10 @@ Application that allows employee's to generate a random password based on the re
 * [Repository Quality](#Repository-Quality)
 * [Submission](#Submission)
 
-## Usage
-For employees to create secure passwords:
-
+## Tools
+* HTML
+* CSS
+* JavaScript
 
 ## Links
 ### Links that Helped me along the way:
@@ -29,21 +30,16 @@ For employees to create secure passwords:
 * [W3Schools - JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
 * [W3Schools - JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
 
-## Tools
-* HTML
-* CSS
-* JavaScript
-
 ## Credits
 GitHub: [Brian Lockhart](https://github.com/bslockhart)
-
-### Challenge Guidelines
-Create an application that an employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. 
 
 ### User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
+
+### Challenge Guidelines
+Create an application that an employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. 
 
 ### Acceptance Criteria:
 * GIVEN I need a new, secure password
@@ -63,7 +59,7 @@ SO THAT I can create a strong password that provides greater security
 * THEN the password is either displayed in an alert or written to the page
 
 ## Mock Up
-The following mock up image shows required display:
+The following image shows the web application's appearance and functionality:
 ![Mock Up](./Develop/assets/images/mockup.png)
 
 ### Steps:
@@ -95,7 +91,6 @@ The following mock up image shows required display:
 * Repository contains quality readme with description, screenshot, link to deployed application.
 
 ### Submission
-* Date Submitted: August #, 2022
+* Date Submitted: August 16, 2022
 * The URL of the deployed application: https://bslockhart.github.io/Password-Generator-Automaton/
 * The URL of the GitHub repository that contains your code: https://github.com/bslockhart/Password-Generator-Automaton
-Give the repository a unique name and include a README file that describes the project.
