@@ -58,7 +58,7 @@ Create an application that an employee can use to generate a random password bas
 * THEN the password is either displayed in an alert or written to the page
 
 ## Mock Up
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
 ![Mock Up](./assets/images/mockup.png)
 
 ### Steps:
