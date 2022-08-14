@@ -21,7 +21,7 @@ Application that allows employee's to generate a random password based on the re
 
 ## Usage
 Personal/for potential employees to create passwords:
-![Mock Up Screenshot](/assets/images/mock-up.png)
+![Mock Up Screenshot](assets/images/mock-up.png)
 
 ## Links
 ### Links that Helped me along the way:
@@ -64,7 +64,7 @@ SO THAT I can create a strong password that provides greater security
 
 ## Mock Up
 The following mock up image shows required display:
-![Mock Up](.assets/images/mock-up.png)
+![Mock Up](assets/images/mock-up.png)
 
 ### Steps:
 * Clone the starter code.
@@ -96,6 +96,6 @@ The following mock up image shows required display:
 
 ### Submission
 * Date Submitted: August #, 2022
-* The URL of the deployed application: https://bslockhart.github.io/Lockhart-Portfolio/
-* The URL of the GitHub repository that contains your code: https://github.com/bslockhart/Lockhart-Portfolio
+* The URL of the deployed application: https://bslockhart.github.io/Password-Generator-Automaton/
+* The URL of the GitHub repository that contains your code: https://github.com/bslockhart/Password-Generator-Automaton
 Give the repository a unique name and include a README file that describes the project.
