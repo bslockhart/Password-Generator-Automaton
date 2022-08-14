@@ -11,7 +11,6 @@ Application that allows employee's to generate a random password based on the re
 * [Challenge Guidelines](#challenge-guidelines)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Mock Up](#Mock-Up)
-* [Usage](#usage)
 * [Steps](#Steps)
 * [Technical Acceptance Criteria](#Technical-Acceptance-Criteria)
 * [Deployment](#Deployment)
