@@ -20,8 +20,8 @@ Application that allows employee's to generate a random password based on the re
 * [Submission](#Submission)
 
 ## Usage
-Personal/for potential employees to create passwords:
-![Mock Up](./Develop/assets/images/mock-up.png)
+For employees to create secure passwords:
+
 
 ## Links
 ### Links that Helped me along the way:
@@ -64,7 +64,7 @@ SO THAT I can create a strong password that provides greater security
 
 ## Mock Up
 The following mock up image shows required display:
-![Mock Up](assets/images/mock-up.png)
+![Mock Up](./Develop/assets/images/mockup.png)
 
 ### Steps:
 * Clone the starter code.
